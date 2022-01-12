@@ -2,11 +2,18 @@
 Code for Stochastic parameter-shift rule
 
 Structures:
+
             README.md
+            
             LICENSE
+            
             code/---:
-                  | Py
-                  | M
+            
+                  | Stoc.PSR.nb
+                  
+                  | Stochastic_Parameter_shift_rule.iypython
+                  
             data/---
+            
             figs/---
                 
