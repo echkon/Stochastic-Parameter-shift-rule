@@ -7,13 +7,10 @@ Structures:
             |
             LICENSE
             |
-            code/---:
-            
+            code/---
                   | Stoc.PSR.nb
-                  
-                  | Stochastic_Parameter_shift_rule.ipynb
-                  
+                  | Stochastic_Parameter_shift_rule.ipynb      
             data/---
-            
+            |
             figs/---
                 
