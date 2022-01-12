@@ -1,2 +1,2 @@
-# Stochastic-Paramater-shift-rule
-Code for Stochastic paramater-shift rule
+# Stochastic-Parameter-shift-rule
+Code for Stochastic parameter-shift rule
