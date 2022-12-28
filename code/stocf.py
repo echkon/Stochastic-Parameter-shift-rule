@@ -79,7 +79,7 @@ def grad_inf(rho0,opers,phases,t,mu,y):
     """
     #unif = stoc.bases.Uni(opers,phases,t)
     dr = []
-    s = 0.00001
+    s = 0.001
 
     def rho_f(phases):
         ut = stoc.bases.Uni(opers,phases,t)
